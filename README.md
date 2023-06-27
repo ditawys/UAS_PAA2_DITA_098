@@ -1,4 +1,10 @@
-### UAS_PAA2_DITA_098
+### Analysis algorithm untuk mengevaluasi:
+a. Worst case
+
+b. Best case
+
+c. Average case
+
 Menganalisis algoritma pengurutan yaitu bubble sort dan insertion sort berikut:
 
 1. Bubble Sort:
