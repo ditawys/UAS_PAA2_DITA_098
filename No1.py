@@ -1,3 +1,5 @@
+#Dita Widayanti Setiawan_F55121098_C TI
+
 import time
 
 def bubble_sort(arr):
